@@ -134,7 +134,7 @@ IF(
 ```
 ├── EdTech_Course_Analytics.pbix     # Main Power BI file
 ├── data/
-│   └── raw_course_data.csv          # Source dataset (Kaggle)
+│   └── Online_Courses.csv          # Source dataset (Kaggle)
 ├── screenshots/                     # Dashboard preview images
 └── README.md
 ```
